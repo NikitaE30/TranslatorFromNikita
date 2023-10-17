@@ -1,0 +1,7 @@
+TOKENIZE:  str = "tokenize"
+DEPPARSE:  str = "depparse"
+SENTIMENT: str = "sentiment"
+MWT: str = "mwt"
+POS: str = "pos"
+NER: str = "ner"
+LEMMA: str = "lemma"
